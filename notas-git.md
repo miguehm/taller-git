@@ -28,9 +28,8 @@ print(a+b)
 
 Para poner una palabra en negritas hace falta rodear a la palabra con dos `**`. Ejemplo:
 
+Hola estoy en **negritas**
+
 ```md
 Hola estoy en **negritas**
 ```
-
-Hola estoy en **negritas**
-
