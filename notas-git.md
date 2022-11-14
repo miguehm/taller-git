@@ -23,3 +23,14 @@ a = 10
 b = 20
 print(a+b)
 ```
+
+## Texto en Negritas
+
+Para poner una palabra en negritas hace falta rodear a la palabra con dos `**`. Ejemplo:
+
+```md
+Hola estoy en **negritas**
+```
+
+Hola estoy en **negritas**
+
